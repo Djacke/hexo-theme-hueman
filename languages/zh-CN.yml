@@ -6,6 +6,12 @@ index:
     category: '分类：'
     uncategorized: '未分类'
     tag: '标签：'
+    devops: 'devops'
+    java: 'java'
+    bloglog: '搭建日志'
+    game: 游戏
+    booklist: 书单
+    tools: 工具
 nav:
     current_page:
         other: '第 %d 页，'
